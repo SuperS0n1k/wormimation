@@ -1,7 +1,7 @@
 import os
 import time
 while True:
-  print('''                                ██▓▓                                                          
+  print('''                                                                                       
                                   ██░░▓▓▓▓                                                      
                                     ██░░░░██                                                    
                                     ██░░░░░░██                                                  
@@ -40,7 +40,7 @@ while True:
   time.sleep(0.5)
   os.system("clear")
   print('''            
-                                           ██▓▓                                                          
+                                                                                                     
                                   ██░░▓▓▓▓                                                      
                                     ██░░░░██                                                    
                                     ██░░░░░░██                                                  
